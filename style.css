@@ -1,0 +1,19 @@
+body {
+    background-image:url(/Blog/imagenes/img2.jpg);
+}
+
+.jumbotron {
+    background-color: #97c4bf;
+    color: white;
+}
+.card-header{
+    background-color: #97c4bf;
+    color: white;
+}
+
+
+.navbar-brand:hover, .nav-link:hover{
+    color: #97c4bf !important;
+    
+
+}
